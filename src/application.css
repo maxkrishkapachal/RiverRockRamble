@@ -1,0 +1,41 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	dialogueBox: rgba(0, 0, 0, 0.4);
+	dialogueName: rgba(4, 213, 220, 0.8);
+	navyNoHighlight: rgba(0, 0, 128, 0.4);
+	navyHighlight: rgba(0, 0, 128, 1.0);
+}
+
+#dialogueBox {
+	-fx-font-size: 2em;
+	-fx-text-fill: IVORY;
+	-fx-background-color: dialogueBox;
+	-fx-background-radius: 2;
+}
+
+#dialogueName {
+	-fx-font-size: 2em;
+	-fx-text-fill: IVORY;
+	-fx-background-color: navyHighlight;
+	-fx-background-radius: 2;
+}
+
+#inventoryButton {
+	-fx-font-size: 2em;
+	-fx-text-fill: IVORY;
+	-fx-background-color: navyNoHighlight;
+	-fx-background-radius: 2;
+}
+
+#inventoryButtonHighlight, #itemAcquiredName {
+	-fx-font-size: 2em;
+	-fx-text-fill: IVORY;
+	-fx-background-color: navyHighlight;
+	-fx-background-radius: 2;
+}
+
+#itemAcquiredDescription, #tutWinWords {
+	-fx-font-size: 1.5em;
+	-fx-text-fill: BLACK;
+}
+
