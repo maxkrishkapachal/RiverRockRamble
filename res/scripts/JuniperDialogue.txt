@@ -1,0 +1,33 @@
+0
+- Ah, good afternoon, Roxie.
+- Come to enjoy some flowers?
+- You're in the right place!
+- I've been tending to these lovely little bulbs for so long,
+- and they've finally blossomed. I'm so happy!
+- Stay as long as you like, Roxie.
+
+1
+- Hello again, Roxie. Did you need something?
+- ...
+- Some flowers? Of course, I could spare a couple.
+- Only if you bring me something to eat though, I'm starving.
+- Caring for these gentle little creatures is hard work.
+- Do that and the flowers are yours!
+
+2
+- Oh, that's sure nice, Roxie, but I can't eat it.
+- I don't think you should either.
+- Really, I hope you know that that isn't edible.
+
+3
+- Soup!
+- Oh, Roxie, soup! Thank you!
+- I can't tell you how much I love soup.
+- How'd you know? Well, everyone loves soup I suppose.
+- Anyway, here are your flowers. I collected them while you were gone.
+- Enjoy them, Roxie!
+
+4
+- Good afternoon, Roxie.
+- I hope those flowers are treating you well and vice versa.
+- Feel free to enjoy my other flowers as well!

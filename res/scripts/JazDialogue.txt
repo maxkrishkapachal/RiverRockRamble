@@ -1,0 +1,37 @@
+0
+- Hello, Roxie.
+- How are you today?
+- ...
+- That's wonderful.
+- Me? Oh, I'm... fine...
+- I'm trying to learn my new dance, here -
+- see, I'm planning it out here in the ground -
+- but my dancing gloves are so worn out that they practically fell apart while I was dancing!
+- I can't dance without them because the wheat is too hard on my palms.
+- So instead, I'm just planning some more, but I wish I could continue dancing...
+
+1
+- What's that?
+- ...
+- You want this stick?
+- Well, I could give it to you... but then what would I do?
+- Can't dance without gloves and can't plan without a stick.
+- Sorry, Roxie.
+
+2
+- That's a pretty cool thing you got there,
+- but it won't get you this stick.
+- Sorry, Roxie.
+
+3
+- Whoa! No way!
+- You really found more gloves?? How did you do that?
+- We're in prehistoric times, gloves haven't even been invented yet!
+- Thank you so much, Roxie!
+- This stick is all yours!
+
+4
+- Hey, Roxie! Check out this move!
+- Whoooaa!!
+- I just did it! Did you see it?!
+- Hahaha!
