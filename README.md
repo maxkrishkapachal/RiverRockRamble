@@ -1,2 +1,2 @@
 # RiverRockRamble
-Play as an Ankylosaurus reading to trade for some rocks!
+Play as an Ankylosaurus ready to trade for some rocks!
